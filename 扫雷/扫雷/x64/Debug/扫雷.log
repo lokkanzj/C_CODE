@@ -1,0 +1,7 @@
+﻿  game.c
+D:\c\扫雷\扫雷\game.c(11,10): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\c\扫雷\扫雷\game.c(15,12): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\c\扫雷\扫雷\game.c(16,8): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\c\扫雷\扫雷\game.c(20,7): warning C4013: “examine”未定义；假设外部返回 int
+D:\c\扫雷\扫雷\game.c(83): warning C4715: “examine”: 不是所有的控件路径都返回值
+  扫雷.vcxproj -> D:\c\扫雷\x64\Debug\扫雷.exe

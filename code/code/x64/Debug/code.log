@@ -1,0 +1,5 @@
+﻿  BubbleSort.c
+D:\c\code\code\BubbleSort.c(38,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c\code\code\BubbleSort.c(89,34): warning C4305: “-=”: 从“double”到“float”截断
+D:\c\code\code\BubbleSort.c(91,36): warning C4305: “+=”: 从“double”到“float”截断
+  code.vcxproj -> D:\c\code\x64\Debug\code.exe
